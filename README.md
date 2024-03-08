@@ -12,9 +12,7 @@ This project, "CV and Drones 101," was conducted under the Electrical Engineerin
 - [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
