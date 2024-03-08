@@ -36,7 +36,7 @@ Drones have become increasingly popular and find applications in various fields.
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/CV-and-Drones-101.git`
+1. Clone the repository: `git clone https://github.com/abhishekmeena33/CV-and-Drones-101.git`
 2. Navigate to the project directory: `cd CV-and-Drones-101`
 3. Follow the installation instructions.
 
